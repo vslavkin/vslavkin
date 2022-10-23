@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vslavkin
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Videogames development
+
 
 
 <!---
